@@ -1,0 +1,41 @@
+div.cuadro.comun{
+    display: inline-block;
+    border: 1px solid rgb(100, 100, 100);
+    box-shadow: rgba(0, 0, 0, 0.55) 1px 1px 5px, rgba(0, 0, 0, 0.55) 1px 1px 5px, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+    border-radius: 0px;
+    padding: 0px;
+    /* margin: 0; */
+}
+
+div.ciclo1{
+    background-color: aquamarine;
+}
+div.ciclo2{
+    background-color: rgb(214, 255, 142);
+    /* opacity: ; */
+}
+div.ciclo3{
+    background-color: rgb(117, 194, 93);
+}
+div.ciclo4{
+    background-color: rgb(185, 161, 253);
+}
+div.ciclo5{
+    background-color: rgb(216, 243, 17);
+}
+div.cuadro:hover{
+    background-color: rgb(239, 247, 0);    
+}
+
+.cuadro span{
+    border: 1px solid black;
+    margin: 0;
+    padding: 2%;
+    border-collapse: collapse;
+}
+.cuadro p{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+}
