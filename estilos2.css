@@ -24,7 +24,7 @@ div.ciclo5{
     background-color: rgb(216, 243, 17);
 }
 div.cuadro:hover{
-    background-color: rgb(239, 247, 0);    
+    background-color: rgba(239, 247, 0, 0.821);    
 }
 
 .cuadro span{
